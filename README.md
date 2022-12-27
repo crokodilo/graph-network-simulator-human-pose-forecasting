@@ -25,4 +25,4 @@ H3.6m
 Put the all downloaded datasets in ../datasets directory.
 
 ## Acknowledgments
-Some of our code was adapted from [STS-GCN](https://github.com/FraLuca/STSGCN), [Learning to Simulate](https://github.com/deepmind/deepmind-research/tree/master/learning_to_simulate) and [Graph Network Simulator (GNS)](https://github.com/geoelements/gns).
+Our code was adapted from [STS-GCN](https://github.com/FraLuca/STSGCN), [Learning to Simulate](https://github.com/deepmind/deepmind-research/tree/master/learning_to_simulate) and [Graph Network Simulator (GNS)](https://github.com/geoelements/gns).

@@ -1,6 +1,6 @@
 # Graph Network-based Simulator (GNS) for Human-Pose-Forecasting
 This repository contains an implementation of the paper [Learning to Simulate Complex Physics with Graph Networks](https://arxiv.org/abs/2002.09405) to perform Human Pose Forecasting.
-For more details about the model implementation click [here](https://github.com/crokodilo/Graph-Network-Simulator-Human-Pose-Forecasting/blob/main/paper.pdf).
+For more details about the model implementation click [here](https://github.com/crokodilo/Graph-Network-Simulator-Human-Pose-Forecasting/blob/main/paper.pdf) or download the [presentation](https://github.com/crokodilo/Graph-Network-Simulator-Human-Pose-Forecasting/blob/main/presentation.pptx).
 
 ## Install dependencies
 
